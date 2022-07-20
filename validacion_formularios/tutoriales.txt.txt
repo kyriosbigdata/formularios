@@ -1,2 +1,14 @@
 // VALIDACION DE FORMULARIO
 https://www.youtube.com/watch?v=cEKDyzoTXb4&t=121s
+
+// VALIDACION CON JAVASCRIPT
+https://www.youtube.com/watch?v=s3pC93LgP18
+
+//EXPRESIONES REGULARES
+https://www.youtube.com/watch?v=wfogZfIS03U 
+
+//Regexpr (REVISAR EXPRESIONES)
+
+https://regexr.com/
+
+
